@@ -1,19 +1,20 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+William+Alexis+Meza;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+William+Meza;" />
 </h1>
 
 
+<p align="center">
+Telecommunications Systems Engineer | FullStack Developer | Security Analist Jr.
+</p>
 <p>
-I am currently studying Telecommunications Systems Management Engineering at Unidades Tecnológicas de Santander. I expect to graduate in November 2026. I recently worked at BAGUER S.A.S, where I used my skills in technical support and tools like WinBox, SQLEXPRESS, and PostgreSQL.
-
-I value innovation and teamwork, and I am eager to share my diverse experiences and ideas with any team I join.
+    Passionate about technology, I have developed my career in areas such as telecommunications, cybersecurity, and programming.
 </p>
 
 ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px> **About me**
 
-- A passionate Self-taught Full Stack developer.
-- Currently learning software develop on CampusLands.
-- I’m currently open for an Intern or a new job opportunity.
+- Currently work on Denario.
+- I value innovation and teamwork, and I am eager to share my diverse experiences and ideas with any team I join.
+- B2 English level.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -38,16 +39,6 @@ I value innovation and teamwork, and I am eager to share my diverse experiences 
 
     <img src="https://skillicons.dev/icons?i=ps&perline=8" />
 <br>
-
-
-## ✅ GitHub Analytics 
-<table>
-  <tr>
-    <td style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api?username=TheWiXi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="TheWiXi" style="height: 150px;"></td>
-    <td style="text-align: center;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheWiXi&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="TheWiXi" style="height: 150px;"></td>
-    <td style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheWiXi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="TheWiXi" style="height: 150px;"></td>
-  </tr>
-</table>
 
 
 <br>
